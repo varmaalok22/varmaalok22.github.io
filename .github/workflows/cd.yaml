@@ -29,6 +29,11 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v6
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
       - name: Create directory for user-specific executable files
          run: |
            mkdir -p "${HOME}/.local"
