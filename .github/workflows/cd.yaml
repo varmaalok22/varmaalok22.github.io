@@ -16,6 +16,11 @@ jobs:
   build-and-deploy-site:
     concurrency: deploy
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
     
     env:
       DART_SASS_VERSION: 1.93.2
