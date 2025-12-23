@@ -8,6 +8,11 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
 defaults:
   run:
     shell: bash
@@ -16,11 +21,6 @@ jobs:
   build-and-deploy-site:
     concurrency: deploy
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-      issues: write
-      pull-requests: write
     
     env:
       DART_SASS_VERSION: 1.93.2
@@ -29,19 +29,19 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4 # Recommended upgrade from v2
         with:
           submodules: recursive
           fetch-depth: 0
 
       - name: Setup Node.js environment
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v4 # Changed from v6 to v4
         with:
           node-version: ${{ env.NODE_VERSION }}
 
       - name: Create directory for user-specific executable files
-         run: |
-           mkdir -p "${HOME}/.local"
+        run: |
+          mkdir -p "${HOME}/.local"
 
       - name: Install Dart Sass
         run: |
@@ -51,7 +51,7 @@ jobs:
           echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3 # Recommended upgrade from v2
         with:
           hugo-version: ${{ env.HUGO_VERSION }}
           extended: true
@@ -64,9 +64,9 @@ jobs:
 
       - name: Build site with Hugo
         run: hugo \
-               --gc \
-               --minify \
-               --cacheDir "${{ runner.temp }}/hugo_cache"
+                --gc \
+                --minify \
+                --cacheDir "${{ runner.temp }}/hugo_cache"
 
       - name: Check HTML
         uses: chabad360/htmlproofer@master
