@@ -1,0 +1,9 @@
+baseURL = 'https://varmaalok22.github.io/'
+languageCode = 'en-us'
+theme = 'anatole'
+enableEmoji = true
+
+[params]
+title = 'Aalok Varma'
+author = 'Aalok Varma'
+description = 'A portfolio website for Aalok Varma, PhD'
