@@ -38,7 +38,10 @@ jobs:
           echo "Node.js: $(node --version)"
 
       - name: Build site with Hugo
-        run: hugo --minify
+        run: hugo \
+               --gc \
+               --minify \
+               --cacheDir "${{ runner.temp }}/hugo_cache"
 
       - name: Check HTML
         uses: chabad360/htmlproofer@master
