@@ -23,7 +23,7 @@ profilePicture = 'images/AalokVarma.jpeg'
     pageRef = '/'
     weight = 10
   [[menus.main]]
-    name = 'Books'
+    name = 'About'
     pageRef = '/books'
     weight = 20
   [[menus.main]]
