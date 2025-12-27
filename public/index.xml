@@ -6,7 +6,18 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Dec 2025 13:40:31 -0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Dec 2025 13:56:31 -0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 27 Dec 2025 13:56:31 -0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>&lt;p&gt;This is a default page, with default content.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Research</title>
       <link>http://localhost:1313/research/</link>
@@ -24,17 +35,6 @@
       <pubDate>Sat, 27 Dec 2025 13:40:26 -0800</pubDate>
       
       <guid>http://localhost:1313/publications/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 27 Dec 2025 13:39:47 -0800</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
       
         <description></description>
       
