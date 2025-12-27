@@ -10,23 +10,23 @@ description = 'A portfolio website for Aalok Varma, PhD'
 profilePicture = 'images/AalokVarma.jpeg'
 
 [menus]
-  [[menus.footer]]
-    name = 'Legal'
-    pageRef = '/legal'
-    weight = 10
-  [[menus.footer]]
-    name = 'Privacy'
-    pageRef = '/privacy'
-    weight = 20
   [[menus.main]]
     name = 'Home'
     pageRef = '/'
     weight = 10
   [[menus.main]]
     name = 'About'
-    pageRef = '/books'
+    pageRef = '/about'
     weight = 20
   [[menus.main]]
-    name = 'Films'
-    pageRef = '/films'
+    name = 'Research'
+    pageRef = '/research'
+    weight = 30
+  [[menus.main]]
+    name = 'Publications'
+    pageRef = '/publications'
+    weight = 30
+  [[menus.main]]
+    name = 'Blog'
+    pageRef = '/'
     weight = 30
