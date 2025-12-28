@@ -256,12 +256,12 @@ body {
 }
 @media screen and (min-width: 961px) {
   .wrapper__main {
-    width: 60%;
+    width: 80%;
   }
 }
 @media screen and (min-width: 1921px) {
   .wrapper__main {
-    width: 48%;
+    width: 64%;
   }
 }
 .wrapper__main--fullscreen {
@@ -284,13 +284,13 @@ body {
 }
 @media screen and (min-width: 961px) {
   .wrapper__sidebar {
-    width: 40%;
+    width: 20%;
     padding: 0;
   }
 }
 @media screen and (min-width: 1921px) {
   .wrapper__sidebar {
-    width: 32%;
+    width: 16%;
   }
 }
 .wrapper__sidebar--hidden {
