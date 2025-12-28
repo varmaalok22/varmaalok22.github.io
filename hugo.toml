@@ -25,8 +25,8 @@ profilePicture = 'images/AalokVarma.jpeg'
   [[menus.main]]
     name = 'Publications'
     pageRef = '/publications'
-    weight = 30
+    weight = 40
   [[menus.main]]
     name = 'Blog'
-    pageRef = '/'
-    weight = 30
+    url = 'https://nerds-of-a-feather.github.io'
+    weight = 50
