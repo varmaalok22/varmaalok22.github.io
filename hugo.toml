@@ -3,6 +3,9 @@ languageCode = 'en-us'
 theme = 'anatole'
 enableEmoji = true
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 title = 'Aalok Varma, PhD'
 author = 'Aalok Varma'
