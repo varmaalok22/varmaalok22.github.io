@@ -11,7 +11,9 @@ hide_title = true
 <br>_PLoS Biology_ (2021)
 
 > This was the ouput of a diverse, global team of researchers who were part of the eLife Community Ambassadors Program, specifically the _Meta-Research_ working group.
+>
 > I was involved in the study design, data collection, formal analysis, writing and revision.
+>
 > Authorship order was alphabetical (by last name), except for the co-first authors and last (and corresponding) author.
 
 2. [A machine-learning tool to identify bistable state from calcium imaging data](https://doi.org/10.1113/JP284373)
@@ -49,10 +51,18 @@ hide_title = true
 <br>Kent. BA, Holman C, Amoako E, Antonietti A, Azam J, Ballhausen H, Bediako Y, Belasen A, Carneiro C, Chen Y, Compeer E, Connor C, Crüwell S, Debat H, Dorris E, Ebrahimi H, Erlich J, Fernández-Chiappe F, Fischer F, Gazda M, Glatz T, Grabitz P, Heise V, Kent D, Lo H, McDowell G, Mehta D, Neumann W, Neves K, Patterson M, Penfold N, Piper S, Puebla I, Quashie P, Quezada C, Riley J, Rohmann J, Saladi S, Schwessinger B, Siegerink B, Stehlik P, Tzilivaki A, Umbers K,, <u>_**Varma A**_</u>, Walavalkar K, de Winde C, Zaza C, Weissgerber T
 <br>_PLoS Biology_ (2022)
 
-> This article was the output of a series of discussions among many early-career researchers across the globe, primarily within the eLife Community Ambassadors network. I was involved in numerous brainstorming sessions, and was involved in writing and editing the article. Authorship order was alphabetical (by last name), except for the first two authors, and the last author.
+> This article was the output of a series of discussions among many early-career researchers across the globe, primarily within the eLife Community Ambassadors network.
+>
+> I was involved in numerous brainstorming sessions, and was involved in writing and editing the article.
+> 
+> Authorship order was alphabetical (by last name), except for the first two authors, and the last author.
 
 8. [Point of View: eLife’s new model and its impact on science communication](https://doi.org/10.7554/eLife.84816)
 <br>Urban L, De Niz M, Fernández-Chiappe F, Ebrahimi H, Han L, Mehta D, Mencia R, Mittal D, Ochola E, Quezada C, Romani F, Sinapayen L, Tay A, <u>_**Varma A**_</u>, Yahia Mohamed Elkheir L 
 <br>_eLife_ (2022)
 
-> This article was the statement by members of the eLife Early Career Advisory Group (ECAG) in support of the new Publish-Review-Curate model championed by eLife. It outlines the working of the model, as well as its advantages, especially for early-career researchers. I was involved in conceptualization, writing and review/editing this article. Authorship order was alphabetical (by last name) except for the first/corresponding author.
+> This article was the statement by members of the eLife Early Career Advisory Group (ECAG) in support of the new Publish-Review-Curate model championed by eLife. It outlines the working of the model, as well as its advantages, especially for early-career researchers.
+> 
+> I was involved in conceptualization, writing and review/editing this article.
+>
+> Authorship order was alphabetical (by last name) except for the first/corresponding author.

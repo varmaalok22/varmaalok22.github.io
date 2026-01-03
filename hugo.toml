@@ -11,7 +11,7 @@ title = 'Aalok Varma, PhD'
 author = 'Aalok Varma'
 description = 'Scientist, Science Communicator, and Lifelong Learner'
 profilePicture = 'images/AalokVarma.jpeg'
-contentratio = 0.85
+contentratio = 0.8
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -56,10 +56,6 @@ url = "https://scholar.google.com/citations?user=6qkp0l0AAAAJ&hl=en"
     pageRef = '/publications'
     weight = 40
   [[menus.main]]
-    name = 'Blog'
-    url = 'https://nerds-of-a-feather.github.io'
-    weight = 70
-  [[menus.main]]
     name = 'Outreach'
     pageRef = '/outreach'
     weight = 50
@@ -67,3 +63,7 @@ url = "https://scholar.google.com/citations?user=6qkp0l0AAAAJ&hl=en"
     name = 'Service'
     pageRef = '/service'
     weight = 60
+  [[menus.main]]
+    name = 'Blog'
+    url = 'https://nerds-of-a-feather.github.io'
+    weight = 70
