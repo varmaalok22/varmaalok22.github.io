@@ -11,7 +11,7 @@ title = 'Aalok Varma, PhD'
 author = 'Aalok Varma'
 description = 'Scientist, Science Communicator, and Lifelong Learner'
 profilePicture = 'images/AalokVarma.jpeg'
-contentratio = 0.8
+contentratio = 0.75
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -21,12 +21,12 @@ url = "https://www.linkedin.com/in/aalok-varma-86ab3274/?originalSubdomain=in"
 [[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = ""
+url = "https://github.com/varmaalok22"
 
 [[params.socialIcons]]
 icon = "fab fa-twitter"
 title = "Twitter"
-url = ""
+url = "https://x.com/varmaalok22"
 
 [[params.socialIcons]]
 icon = "fab fa-orcid"
