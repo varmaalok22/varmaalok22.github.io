@@ -56,14 +56,18 @@ url = "https://scholar.google.com/citations?user=6qkp0l0AAAAJ&hl=en"
     pageRef = '/publications'
     weight = 40
   [[menus.main]]
+    name = 'Teaching'
+    pageRef = '/teaching'
+    weight = 50
+  [[menus.main]]
     name = 'Outreach'
     pageRef = '/outreach'
-    weight = 50
+    weight = 60
   [[menus.main]]
     name = 'Service'
     pageRef = '/service'
-    weight = 60
+    weight = 70
   [[menus.main]]
     name = 'Blog'
     url = 'https://nerds-of-a-feather.github.io'
-    weight = 70
+    weight = 80
