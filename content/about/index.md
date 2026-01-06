@@ -11,7 +11,7 @@ I earned my Bachelor's degree (B.Sc. Biotechnology) from Manipal University, gra
 I was awarded my PhD from the National Centre for Biological Sciences (NCBS-TIFR), Bangalore. Under the guidance of Dr. Vatsala Thirumalai, I studied the neural circuits controlling motor function in larval zebrafish (_Danio rerio_). My thesis dissertation focused on the implications of bistability in cerebellar Purkinje neurons for circuit function.
 I am a strong advocate for systemic change in academia, having contributed as an eLife Community Ambassador and subsequently as a member and co-chair of eLife’s Early Career Advisory Group (ECAG). I am also an avid science communicator and educator.
 
-Here is my complete [CV]({{< ref "AV_CV.pdf" >}}), up-to-date as of January 2026.
+Here is my complete [CV](AV_CV.pdf), up-to-date as of January 2026.
 
 ## Who I Am -- The Behind-the-Scenes Version
 Born and raised in Mumbai, I steadily headed further south to continue my education. I earned my Bachelor's degree from Manipal University, Manipal, and my PhD from the National Centre for Biological Sciences (NCBS-TIFR), Bangalore. I moved continents, but have continued to stay in the southwest part of the country despite my new residence (West Coast Best Coast, they say).
