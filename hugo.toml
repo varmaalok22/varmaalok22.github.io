@@ -49,8 +49,19 @@ url = "https://scholar.google.com/citations?user=6qkp0l0AAAAJ&hl=en"
     weight = 20
   [[menus.main]]
     name = 'Research'
+    identifier = 'Research'
     pageRef = '/research'
     weight = 30
+  [[menus.main]]
+    name = 'Current Research'
+    pageRef = '/research/current-research'
+    parent = 'Research'
+    weight = 1
+  [[menus.main]]
+    name = 'Past Research'
+    pageRef = '/research/past-research'
+    parent = 'Research'
+    weight = 2
   [[menus.main]]
     name = 'Publications'
     pageRef = '/publications'

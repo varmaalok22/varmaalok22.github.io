@@ -1,3 +1,7 @@
+{{ if (and (not .Content) .Pages) }}
+  <meta http-equiv="refresh" content="0; url={{ (index .Pages.ByWeight 0).Permalink }}">
+{{ end }}
+
 {{ define "main" }}
   <div
     class="archive {{ with .Site.Params.doNotLoadAnimations }}
