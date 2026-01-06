@@ -12,6 +12,7 @@ author = 'Aalok Varma'
 description = 'Scientist, Science Communicator, and Lifelong Learner'
 profilePicture = 'images/AalokVarma.jpeg'
 contentratio = 0.75
+mainSections = ["posts"]
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"

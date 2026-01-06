@@ -18,7 +18,7 @@ As some who champions open science, and in the spirit of the Looger lab, I am ha
 
 <br>
 
-### Endogenous viruses
+### Biology of endogenous viruses
 Viruses are simply mindblowing in their simplicity, versatility, and their influence on almost everything in biology. And while they get bad press because they are typically associated with diseases, we would not exist without viruses.
 
 In the constant arms race between viruses and their hosts, they have found ways to integrate into host genomes and sit there silently, and hosts have found ways to disarm them and/or repurpose their genes for their own use. Therefore, over time, host genomes get littered with fragments of viral genomes. These parts of a genome's "junk DNA" are called _endogenous viral elements_ (EVEs). Many biologists typically think of endogenous retroviruses when they think of EVEs, but viruses of almost all types have been found in genomes.
@@ -32,4 +32,9 @@ This barely scratches the surface of the wonderful world of endogenous virus bio
 
 <br>
 
-### Climate change adaptations
+### Effects of climate change on biology
+Anthropogenic climate change has been happening since the Industrial Revolution (i.e. for ~200 years), and organisms have been subjected to various selection pressures as a result of this activity - higher atmospheric CO<sub>2</sub> and its resulting effects on temperature, artificial light at night, and environmental pollutants, to name a few.
+
+While many organisms have been succumbing to these stressors, some have been surviving (and potentially thriving, even). I'm broadly interested in understanding the physiology and cell biology of these organisms, with a particular focus is on coleoid cephalopods (i.e. squids, octopuses, and cuttlefish). 
+
+Climate change also has lasting effects on human physiology and health - we are facing diseases we've never seen before, and extreme weather is taking a toll on our brains, bodies, and societies. I am interested in better understanding these effects and how we can mitigate or overcome them, in the long run.
