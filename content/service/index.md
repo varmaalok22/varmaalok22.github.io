@@ -6,6 +6,7 @@ hide_title = true
 +++
 
 ## eLife Community Ambassadors Program
+I was [one of 243 volunteers](https://elifesciences.org/inside-elife/a946c355/elife-community-ambassadors-243-volunteers-join-the-programme-in-2019) from around the world to participate in the 2019 eLife Community Ambassadors program. As an Ambassador, I worked on promoting open science via two key initiatives outlined below.
 
 ### Readability Initiative
 [Theo Sanderson](https://theo.io) and I co-led this initiative with the aim of producing 'Lucid Bio' adaptations of some papers published in eLife.
