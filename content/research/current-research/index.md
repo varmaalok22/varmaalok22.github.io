@@ -26,7 +26,7 @@ In the constant arms race between viruses and their hosts, they have found ways 
 Most EVEs have unknown functions, but some of the functions we do know about are fascinating enough to keep me interested in exploring the biology of endogenous viruses:
 * Syncytin is a protein that we co-opted (a.k.a. "stole") from a retrovirus, and it's critical for the formation of the placenta.
 * Arc is a protein that is important for synaptic plasticity and learning. It was a retroviral capsid once, and still retains the ability to package its own RNA and transmit it across neurons.
-* Parasitoid wasps have endogenous viruses from the Bracovirus family, which are DNA viruses (i.e. not retroviruses). These endogenous viruses are particularly active in wasp eggs. When parasitoid wasps lay these eggs in their host, the Bracovirus EVEs work to suppress their host's immune system, increasing the likelihood that the eggs will survive.
+* Parasitoid wasps have endogenous viruses from the Bracovirus family, which are DNA viruses (i.e. **not** retroviruses). These endogenous viruses are particularly active in special cells in wasp ovaries. When parasitoid wasps lay eggs in their host, the Bracovirus particles that get co-injected work to suppress their host's immune system to help ensure that the eggs will survive.
 
 This barely scratches the surface of the wonderful world of endogenous virus biology. I'm currently working on understanding the function of a rather unusual AAV-like endogenous viral element in cephalopods. To learn more, watch my 3-minute pitch in the [Outreach](/outreach) page, and/or reach out to me.
 
