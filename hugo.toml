@@ -13,6 +13,8 @@ description = 'Scientist, Science Communicator, and Lifelong Learner'
 profilePicture = 'images/AalokVarma.jpeg'
 contentratio = 0.75
 mainSections = ["posts"]
+#formspreeId = "xqearzep"
+contactFormAction = "https://formspree.io/f/xqearzep"
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
@@ -83,3 +85,8 @@ url = "https://scholar.google.com/citations?user=6qkp0l0AAAAJ&hl=en"
 #    name = 'Blog'
 #    url = 'https://nerds-of-a-feather.github.io'
 #    weight = 80
+  [[menus.main]]
+    name = 'Contact'
+    url = '/contact/'
+    weight = 100
+
