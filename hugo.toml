@@ -13,8 +13,8 @@ description = 'Scientist, Science Communicator, and Lifelong Learner'
 profilePicture = 'images/AalokVarma.jpeg'
 contentratio = 0.75
 mainSections = ["posts"]
-#formspreeId = "xqearzep"
 contactFormAction = "https://formspree.io/f/xqearzep"
+customCss = ["css/custom.css"]
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
