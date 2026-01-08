@@ -93,8 +93,3 @@ url = "https://scholar.google.com/citations?user=6qkp0l0AAAAJ&hl=en"
     name = 'Contact'
     url = '/contact/'
     weight = 100
-
-  [[menus.footer]]
-    name = 'About'
-    url = "/"
-    weight = 1
