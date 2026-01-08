@@ -11,10 +11,7 @@ I was a project TA for the 2022 and 2023 iterations of the Neuromatch Academy Co
 <br> Here is my video application (2022)
 
 <iframe 
-    width="768" 
-    height="432" 
     src="https://youtube.com/embed/GwigiaJ36OY"
-    frameborder="0" 
     allowfullscreen>
 </iframe>
 
@@ -23,10 +20,7 @@ I had also simultaneously applied for the NMA Deep Learning TA-ship, though I op
 <br> Here is my video application (2022)
 
 <iframe
-    width="768"
-    height="432"
     src="https://youtube.com/embed/bmRue1Vr_9w"
-    frameborder="0"
     allowfullscreen>
 </iframe>
 
