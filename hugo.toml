@@ -6,6 +6,10 @@ enableEmoji = true
 [markup.goldmark.renderer]
 unsafe = true
 
+[services]
+  [services.googleAnalytics]
+    id = 'G-0KXB3NEWQH'
+
 [params]
 title = 'Aalok Varma, PhD'
 author = 'Aalok Varma'
