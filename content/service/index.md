@@ -15,10 +15,7 @@ I was [one of 243 volunteers](https://elifesciences.org/inside-elife/a946c355/el
 
 I gave a summary of the Readability Initative at an ECRWednesday webinar on Oct 2021:
 <iframe
-    width="768"
-    height="432"
     src="https://www.youtube.com/embed/FtWNiM1CUNM?start=1520&end=1887"
-    frameborder="0"
     allowfullscreen>
 </iframe>
 
@@ -29,10 +26,7 @@ You can learn more about this work in **[this peer-reviewed publication](https:/
 
 To learn more about Meta-Research, and our project on image reporting in publications in particular, watch this ECRWednesday webinar that I hosted in Oct 2021:
 <iframe
-    width="768"
-    height="432"
     src="https://www.youtube.com/embed/UhR94tewzHo?start=4"
-    frameborder="0"
     allowfullscreen>
 </iframe>
 

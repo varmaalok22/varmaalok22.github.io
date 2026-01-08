@@ -29,6 +29,11 @@
     z-index: 1;
 }
 
+/* =============================================
+   RESOLVE SIDEBAR SCROLLING ISSUE
+   =============================================
+*/
+
 .theme--dark .sidebar {
     background-color: var(--dark-bg-color);
     z-index: 999;
@@ -39,3 +44,18 @@
     z-index: 999;
 }
 
+/* ============================================
+   YOUTUBE SCALING ACROSS PLATFORMS
+   ============================================
+*/
+iframe {
+    diplay: block;
+    border: none;
+
+    width: 100%;
+    max-width: 1200px;
+
+    aspect-ratio: 16 / 9;
+
+    margin-bottom: 2rem;
+}
