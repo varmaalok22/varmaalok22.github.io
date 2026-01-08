@@ -2,37 +2,106 @@
 
 /* Force the accent color */
 :root {
-    --dark-accent-color: #d4af37;
-    --dark-bg-color: #152028;
+    --dark-font-color: #f2f1e2;
+    --dark-accent-color: #904d44 /* #d4af37 */;
+    --dark-bg-color: #283e4b /* #152028 */;
 
-    --light-accent-color: #B20D30;
-    --light-bg-color: #fff;
+    --light-font-color: #33342f;
+    --light-accent-color: #316c43 /* #B20D30 */;
+    --light-bg-color: #e6ddd4;
 }    
+
+/* =======================================
+   SET BACKGROUND COLOURS
+   =======================================
+*/
+
+/* Ensure the dark theme variables are applied to all main containers */
+.theme--dark body, 
+.theme--dark .body,
+.theme--dark .header.header, 
+.theme--dark .nav__list, 
+.theme--dark .wrapper, 
+.theme--dark .post__content, 
+.theme--dark .post__footer, 
+.theme--dark .footer.footer__base, 
+.theme--dark .post,
+.theme--dark .form-style ul li {
+    background-color: var(--dark-bg-color);
+}
+
+/* Ensure the light theme variables are applied to all main containers */
+.theme--light body,
+.theme--light .body,
+.theme--light .header.header,
+.theme--light .nav__list,
+.theme--light .wrapper,
+.theme--light .post__content,
+.theme--light .post__footer,
+.theme--light .footer.footer__base,
+.theme--light .post,
+.theme--light .form-style ul li {
+    background-color: var(--light-bg-color);
+}
+
+/* =======================================
+   SET FONT COLOURS
+   =======================================
+*/
+.theme--dark,
+.theme--dark p,
+.theme--dark h1,
+.theme--dark h2,
+.theme--dark h3,
+.theme--dark label,
+.theme--dark strong,
+.theme--dark em,
+.theme--dark b,
+.theme--dark i,
+.theme--dark span,
+.theme--dark li {
+    color: var(--dark-font-color);
+}
+
+.theme--light,
+.theme--light p,
+.theme--light h1,
+.theme--light h2,
+.theme--light h3,
+.theme--light label,
+.theme--light strong,
+.theme--light em,
+.theme--light b,
+.theme--light i,
+.theme--light span,
+.theme--light li {
+    color: var(--light-font-color);
+}
 
 /* =======================================
    HYPERLINKS
    =======================================
 */
-
-
-.post .post-title a,
 .theme--dark .post__content a {
     color: var(--dark-accent-color);
 }
 
 .theme--light .post__content a {
-    color: var(--light-accent-color);   
+    color: var(--light-accent-color);
 }
 
-.content {
-    position: relative;
-    z-index: 1;
-}
+/* Sidebar Link - i.e. my name
+.theme--dark .sidebar__introduction-title a {
+*/
 
 /* =============================================
    RESOLVE SIDEBAR SCROLLING ISSUE
    =============================================
 */
+.content {
+    position: relative;
+    z-index: 1;
+}
 
 .theme--dark .sidebar {
     background-color: var(--dark-bg-color);

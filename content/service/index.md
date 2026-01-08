@@ -35,3 +35,6 @@ I was a member and co-chair of the [eLife Early-Career Advisory Group](https://e
 The ECAG also administered the eLife Community Ambassadors Program, and spearheaded and participated in numerous initiatives across the eLife ecosystem, all with the goal of making academia kinder, more inclusive, and more globally interconnected.
 
 A summary of the key achievements of the ECAG in 2021 can be found **[here](https://elifesciences.org/inside-elife/fb42d729/early-career-advisory-group-highlights-of-our-work-in-2021)**, and key achievements in the year 2022 can be found **[here](https://elifesciences.org/inside-elife/5879b213/early-career-advisory-group-highlights-of-our-work-in-2022)**.
+
+
+
