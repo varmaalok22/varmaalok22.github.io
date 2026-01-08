@@ -4,10 +4,12 @@
 :root {
     --dark-font-color: #f2f1e2;
     --dark-accent-color: #904d44 /* #d4af37 */;
+    --dark-hyperlink-color: #d4af37;
     --dark-bg-color: #283e4b /* #152028 */;
 
     --light-font-color: #33342f;
     --light-accent-color: #316c43 /* #B20D30 */;
+    --light-hyperlink-color: #B20D30;
     --light-bg-color: #e6ddd4;
 }    
 
@@ -83,16 +85,31 @@
    =======================================
 */
 .theme--dark .post__content a {
-    color: var(--dark-accent-color);
+    color: var(--dark-hyperlink-color);
 }
 
 .theme--light .post__content a {
-    color: var(--light-accent-color);
+    color: var(--light-hyperlink-color);
 }
 
 /* Sidebar Link - i.e. my name
 .theme--dark .sidebar__introduction-title a {
 */
+
+/* ======================================
+   SPECIAL CASES
+   ======================================
+*/
+
+.theme--dark .special-text {
+    color: var(--dark-accent-color);
+    font-style: italic;
+}
+
+.theme--light .special-text {
+    color: var(--light-accent-color);
+    font-style: italic;
+}
 
 /* =============================================
    RESOLVE SIDEBAR SCROLLING ISSUE
