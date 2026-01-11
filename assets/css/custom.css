@@ -1,16 +1,26 @@
 /* --- Anatole Theme Customizations --- */
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 /* Force the accent color */
 :root {
     --dark-font-color: #f7f3ea;
     --dark-accent-color: #ecbb11 /* #d4af37 */;
-    --dark-hyperlink-color: #f98d8d;
+    --dark-hyperlink-color: #ecbb11 /* #f98d8d */;
     --dark-bg-color: #33342f /* #152028 */;
 
     --light-font-color: #33342f;
     --light-accent-color: #316c43 /* #B20D30 */;
-    --light-hyperlink-color: #B20D30;
+    --light-hyperlink-color: #B12B2B;
     --light-bg-color: #e6ddd4;
+
+    body {
+       font-family: "Inter", sans-serif;
+       font-optical-sizing: auto;
+       font-weight: 300;
+       font-size: 16px;
+       font-style: normal;
+  }
 }    
 
 /* =======================================
