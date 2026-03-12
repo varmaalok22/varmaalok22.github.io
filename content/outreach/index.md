@@ -5,7 +5,7 @@ title = 'Outreach'
 hide_title = true
 +++
 
-## 2025 UCSD Postdoc PITCH Competition
+## UCSD Postdoc PITCH Competition (2025)
 This was the inaugural "Three Minute Thesis"-style competition for postdocs at UC San Diego.
 I talked about my research on endogenous viruses in cephalopods.
 I placed first in this competition.
@@ -15,7 +15,7 @@ I placed first in this competition.
     allowfullscreen>
 </iframe>
 
-## 2025 Torrey Pines Training Consortium (TPTC) Postdoc Pitch Competition
+## Torrey Pines Training Consortium (TPTC) Postdoc Pitch Competition (2025)
 This was the mesa-wide follow up to the UC San Diego competition.
 The top two finalists from UC San Diego, Scripps Research, Salk Institute, and Sanford Prebys were selected as contestants.
 I came in second place at this competition, and also won the People's Choice Award.
@@ -23,6 +23,13 @@ I came in second place at this competition, and also won the People's Choice Awa
     src="https://www.youtube.com/embed/TNGZJ62_KmY?start=1153&end=1507"
     allowfullscreen>
 </iframe>
+
+## Fleet Science Center presents _Suds & Science_ (2026)
+I presented a public lecture at the ["Suds & Science"](https://www.fleetscience.org/events/suds-science) event organized by the Fleet Science Center in San Diego, CA. The event brings scientists face-to-face with the public at local breweries. Here's what I talked about:
+### _Weathering Change: Life in the Face of a Changing Climate_
+_Human activities have led to major alterations to the environment. Although we are only now coming to appreciate how, the effects of these changes have been felt by all living creatures for more than a century. In this talk, I will share three hot topics of research on how climate change affects us and the ecosystem we are embedded in. First, I will share how global warming is making us hotheaded, with potentially disastrous consequences for our society. Second, I will discuss how climate change is helping spread old diseases to new areas, and also leading to the emergence of never-before-seen pathogens. And finally, I’ll try to switch from doom to mood by telling you about how our jellyfish and cephalopod cousins might be coping with climate change. Come prepared to learn something new, “weather” you like it or not._
+
+<br>
 
 ## Taste of Science, San Diego
 <iframe
