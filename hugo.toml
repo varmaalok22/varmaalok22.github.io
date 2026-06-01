@@ -85,10 +85,10 @@ url = "https://scholar.google.com/citations?user=6qkp0l0AAAAJ&hl=en"
     name = 'Service'
     pageRef = '/service'
     weight = 70
-#  [[menus.main]]
-#    name = 'Blog'
-#    url = 'https://nerds-of-a-feather.github.io'
-#    weight = 80
+  [[menus.main]]
+    name = 'Blog'
+    url = 'https://nerds-of-a-feather.github.io'
+    weight = 80
   [[menus.main]]
     name = 'Contact'
     url = '/contact/'
